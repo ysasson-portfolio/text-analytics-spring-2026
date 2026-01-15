@@ -1,21 +1,3 @@
-# text-analytics-spring-2026
-<<<<<<< HEAD
-
-Text Mining \& Social Media Analytics - LMU Spring 2026
-
-
-
-dfksfdfdfs
-
-ffsfsfsfs
-
-
-
-helllo
-
-=======
-Text Mining &amp; Social Media Analytics - LMU Spring 2026
-
 # Text Analytics Spring 2026
 **Student:** Yarden Sasson
 **University:** Loyola Marymount University
@@ -55,4 +37,3 @@ Each assignment demonstrates different NLP techniques using Python.
 - **Email:** [your.email@lmu.edu]
 - **GitHub:** [@your-username](https://github.com/your-username)
 - **LinkedIn:** [Your LinkedIn] (optional)
->>>>>>> 3002bd745e98d8d83574faf0f25015922102dc08
