@@ -34,6 +34,6 @@ Each assignment demonstrates different NLP techniques using Python.
 - matplotlib, seaborn
 
 ## Contact
-- **Email:** [your.email@lmu.edu]
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **LinkedIn:** [Your LinkedIn] (optional)
+- **Email:** ysasson@lion.lmu.edu
+- **GitHub:** [@ysasson-portfolio](https://github.com/ysasson-portfolio)
+- **LinkedIn:** https://www.linkedin.com/in/yarden-sasson/
