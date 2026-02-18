@@ -38,7 +38,8 @@ I followed up and asked if there was a way to run it without using a map functio
 
 I learned that sometimes models will take a while to run regardless of the efforts we make to speed it up. Although, batching is a good method to increase the efficiency while running the model. 
 
-
+### AI Error Found:
+AI suggested to use .apply to apply the function to the entire column (utilizing this method on an entire column with lots of data and an intensive model is inefficient). I fixed it by batching and doing the analysis on a loop (AI gave me this idea as an alternative).
 
 (Link to Chat Transcript)\[https://chatgpt.com/share/699573ba-0c80-8001-b965-2f5be6a16966]
 
