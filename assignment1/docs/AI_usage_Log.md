@@ -83,13 +83,13 @@ print(result)
 
 ### What did you modify?
 
-I modified the code to cut out any domain that is typically used with any text that is attached to it. You will see it in my remove_url function.
+I modified the code to cut out any domain that is typically used with any text that is attached to it. The URLs in this dataset are primarily BA.com or UK.gov. This is why I modified the code to find any text that is followed by any of the common domains (.com, .edu, .org, .net, etc.) You will see it in my remove_url function.
 
 
 
 ### Why did I modify it?
 
-I modified the code because there were not any typical urls in any of the reviews using the typical "http://".
+I modified the code because there were not any typical urls in any of the reviews using the typical "http://". 
 
 
 
@@ -122,15 +122,15 @@ I looked through my code live on Github and found there was an invisible "\" bef
 
 ### Why did I modify it?
 
-I modified it because I saw that there wasn't any issue with my file. 
+I modified it because I saw that there wasn't any issue with my file within the Notebook editor. 
 
 
 
 ### What did I learn?
 
-I learned that sometimes it is important to look through the markup on Github to ensure everything is working properly. 
+I learned that sometimes it is important to look through the markup on Github as well to ensure everything is working properly. 
 
 
 
-[Link to Chat Transcript](https://chatgpt.com/share/699573ba-0c80-8001-b965-2f5be6a16966)]
+[Link to Chat Transcript](https://chatgpt.com/share/699573ba-0c80-8001-b965-2f5be6a16966)
 
