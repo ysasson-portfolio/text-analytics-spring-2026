@@ -36,6 +36,7 @@ jupyter notebook notebooks/sentiment_analysis.ipynb
 When the sample file is produced make sure to create a column called 'real_y' in the new sample file and put "Positive", "Negative", or "Neutral". Then load it back in and continue running it. It should already be in the code.
 
 ## Result Visualization
+Can be found in Section 6 of the code
 
 ``` python
 
@@ -65,6 +66,7 @@ print(model_compare_df)
 
 ## Files
 - `notebooks/sentiment_analysis.ipynb` - Main analysis notebook
+- `data/processed/airline_review_sample.csv` - My version of the sample spreadsheet
 - `docs/AI_usage_log.md` - AI interaction documentation
 - `docs/reflection.md` - Lessons learned
 - `figures/text_length_distribution_hist.png` - Text Length Distribution Histogram
