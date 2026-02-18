@@ -30,7 +30,7 @@ I modified by still using a batching process, except that I utilized it in a for
 
 ### Why did I modify it?
 
-I followed up and asked if there was a way to run it without using a map function because it was still taking too long. I modified it because I wanted to make sure that I understood the code and that it would work with my data.
+I followed up and asked if there was a way to run it without using a map function because it was still taking too long. I modified it because I wanted to make sure that I understood the code and that it would work with my data. (Code was updated in section 5.3)
 
 
 
