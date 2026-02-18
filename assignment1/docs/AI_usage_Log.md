@@ -2,7 +2,7 @@
 
 
 
-## Task 3: Fix Markup Formatting  
+## Task 1: Transformer Model Running Optimization 
 
 ### Task I was Trying to Achieve:
 
@@ -97,7 +97,7 @@ I modified the code because there were not any typical urls in any of the review
 Here I learned that there are multiple ways to input URLs into a text and the I needed to consider other ways to implement the same idea. This made me go back to the datacamp course we did earlier and see how to include "or" arguments within my regex code.
 
 
-## Task 1: Transformer Model Running Optimization  
+## Task 3: Fix Markup Formatting
 
 ### Task I was Trying to Achieve:
 
