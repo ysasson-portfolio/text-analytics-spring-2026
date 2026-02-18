@@ -88,13 +88,13 @@ I modified the code to cut out any domain that is typically used with any text t
 
 ### Why did I modify it?
 
-I modified the code because there were not any typical urls in any of the reviews using the typical "http://"
+I modified the code because there were not any typical urls in any of the reviews using the typical "http://".
 
 
 
 ### What did I learn?
 
-Here I learned that there are multiple ways to input URLs into a text and the I needed to consider other ways to implement the same idea. This made me go back to the datacamp course we did earlier and see how to include "or" arguments within my regex code.
+Here I learned that there are multiple ways to input URLs into a text and the I needed to consider other ways to implement the same idea. This made me go back to the datacamp course we did earlier and see how to include "or" arguments within my regex code. I also learned that regex is very particular and exact when it comes to formatting. 
 
 
 ## Task 3: Fix Markup Formatting
