@@ -97,4 +97,39 @@ I modified the code because there were not any typical urls in any of the review
 Here I learned that there are multiple ways to input URLs into a text and the I needed to consider other ways to implement the same idea. This made me go back to the datacamp course we did earlier and see how to include "or" arguments within my regex code.
 
 
+## Task 1: Transformer Model Running Optimization  
+
+### Task I was Trying to Achieve:
+
+In this task, I was trying to upload the code that I AI usage log, but it was having formatting issues even though I used the same formatting from the ReadMe file. 
+
+
+### What prompt did you use?
+
+why isn't my markup formatting correctly
+
+
+### What did AI suggest?
+
+AI suggested that I go through my file and make sure that I fix the space (which existed, but didn't solve the problem). I then made sure there were not any tabs or extra spaces (which weren't there). 
+
+### What did you modify?
+
+I looked through my code live on Github and found there was an invisible "\" before every # in the markup. I removed the "\" to make it work. 
+
+
+
+### Why did I modify it?
+
+I modified it because I saw that there wasn't any issue with my file. 
+
+
+
+### What did I learn?
+
+I learned that sometimes it is important to look through the markup on Github to ensure everything is working properly. 
+
+
+
+[Link to Chat Transcript](https://chatgpt.com/share/699573ba-0c80-8001-b965-2f5be6a16966)]
 
