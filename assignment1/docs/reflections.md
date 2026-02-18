@@ -1,2 +1,4 @@
+#Reflection for Assignment 1
 
+For this assignment, it was extremely interesting to learn about the different models and specifically how the application of machine learning models can help with a simple task such as a text analysis. There are so many different approaches when it comes to one task. It was interesting how the different models are similar, yet so different at the same time. I feel that I struggled to rely on AI because I am not sure of the limitations when using and I want to make sure that I am understanding every single element of the task. Although, my background from Introduction to Machine Learning gave me a good understanding with the theory behind the concepts. These new libraries were interesting and required me to do more research, so I can understand the necessary functions, methods, objects, etc. Overall, I feel like I handeled the assignment in the best way that I could. 
 
