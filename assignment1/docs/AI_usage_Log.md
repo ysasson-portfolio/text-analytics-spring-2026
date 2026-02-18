@@ -24,13 +24,13 @@ AI suggested to create a function that batches the data from within the dataset 
 
 ### What did you modify?
 
-I modified by still using a batching process, except that I utilized it in a for loop that would go through the different batches and store the outputs in a list that I could use to relate to the original dataframe. 
+I modified by still using a batching process, except that I utilized it in a for loop that would go through the different batches and store the outputs in a list that I could use to relate to the original dataframe. Once I got the code, I made sure to apply it to my specific dataset.
 
 
 
 ### Why did I modify it?
 
-I followed up and asked if there was a way to run it without using a map function because it was still taking too long. 
+I followed up and asked if there was a way to run it without using a map function because it was still taking too long. I modified it because I wanted to make sure that I understood the code and that it would work with my data.
 
 
 
@@ -82,7 +82,7 @@ print(result)
 
 ### What did you modify?
 
-I modified the code to cut out any domain that is typically used with any text that is attached to it.
+I modified the code to cut out any domain that is typically used with any text that is attached to it. You will see it in my remove_url function.
 
 
 
