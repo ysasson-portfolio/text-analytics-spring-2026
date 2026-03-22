@@ -63,6 +63,8 @@ Based on the data provided in the Model Comparison Idea above, I would recommend
 - `docs/AI_usage_log.md` - AI interaction documentation
 - `docs/report.pdf` - Written Technical Memo
 - `docs/reflection.md` - Lessons learned
+- Processed Data - Unable to upload final processed data to GitHub because of upload size limitations of 25-100 MB and the file is 200 MB (Feel free to run and save the file by uncommenting the line of code
+
 
 ## How to Run
 
