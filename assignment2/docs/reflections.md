@@ -6,7 +6,7 @@
 
 
 
-Based on what I predicted, the model got 18/20 correct.
+Based on the sentiments I assigned to the reviews generated from ChatGPT, the model got 18/20 correct.
 
 
 
@@ -14,7 +14,7 @@ Based on what I predicted, the model got 18/20 correct.
 
 
 
-The model did fail on 1 of the "tricky" examples. I believe that it failed because of the way that the review started. It started really poisitve with "The visuals were beautiful", and that weighed really heavy in terms of the tokenization and vectorization towards the positive review. the words following were not specifically negative which made it difficult to properly classify it as a negative review.
+The model did fail on 1 of the "tricky" examples. I believe that it failed because of the way that the review started. It started really positive with "The visuals were beautiful", and that weighed really heavy in terms of the tokenization and vectorization towards the positive review. the words following were not specifically negative which made it difficult to properly classify it as a negative review. 
 
 
 
@@ -30,7 +30,7 @@ The "out-of-domain" examples also were handled 4/5 times successfully. I think t
 
 
 
-I still maintain that this model can be very easily generalized because it succeeded 80% of the time at classifying reviews that are out of context or domain and overall succeeded 90% of the time. I think that the more information that this model will train on, the more the model will learn to handle different meanings with the same word, positive and negative as it relates to context, and other difficult language nuances. 
+I still maintain that this model can be very easily generalized because it succeeded 80% of the time at classifying reviews that are out of context or domain and overall succeeded 90% of the time. I think that the more information that this model will train on, the more the model will learn to handle different meanings with the same word, positive and negative as it relates to context, and other difficult language nuances. While there wasn't enough training for the text outside the current domain, I am still amazed that the model was able to predict the reviews so well when it came to new content.
 
 
 
@@ -38,5 +38,5 @@ I still maintain that this model can be very easily generalized because it succe
 
 
 
-Based on this test, I would really trust the model in production. 
+Based on this test, I would really trust the model in production because it performs extremely well on the data from the IMDB dataset as well as the sample reviews that were generate by AI. I think that there are some limitations that would be faced when working with this model in a larger company context. The main thing that is missing in this case would be any additional information that would provide additional context to the review that could give the company the necessary information to understand what the review is referring to. An example of this could be the movie information that they are reviewing, genre, numerical rating, date and year the review was written in order to determine how old the review actually is, and more. 
 
