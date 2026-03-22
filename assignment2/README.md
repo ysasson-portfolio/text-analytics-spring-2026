@@ -27,6 +27,12 @@ This assignment has us using Machine Learning Algorithms and Feature Engineering
 | Algorithm | Feature | Accuracy | Train+Predict (s) | Memory Usage | Interpretability|
 |:---------:|:-------:|:--------:|:-----------------:|:------------:|:----------------:|
 | Naive Bayes | CountVectorizer | 0.8562 | 0.2612 | 0.854894 | 1 | Most Interpretable |
+| Logistic Regression | CountVectorizer | 0.8765 | 3.6591 | 0.876290 | 2 | Very Interpretable |
+| SVM | CountVectorizer | 0.8673 | 18.0844 | 0.867472 | 5 | Least Interpretable |
+| Random Forest | CountVectorizer | 0.8520 | 98.0443 | 0.853000 | 7 | Not as Interpretable but can give the most insights |
+
+
+
 
 
 ## Recommendation with Justification
