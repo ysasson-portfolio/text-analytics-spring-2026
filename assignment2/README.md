@@ -21,6 +21,9 @@ This assignment has us using Machine Learning Algorithms and Feature Engineering
 
 ## Important Class/Labels with Justification
 
+Seeing that the audience of this analysis is a technical manager and entertainment executives, I think that the most important label that we need to look at our where the sentiment labels are marked "negative". When it comes to good reviews, I am sure they are important and tell the company where they have succeeded, but the negative reviews are where the companies can really look to make improvements for their viewers and/or audience. Negative reviews are a great opportunity to hear where the pain points are and improve the efforts of the company for any current or upcoming project. If companies do not improve on really important negative issues, they are at risk of losing millions or even billions of dollars in lost revenues after the customers decide they are not willing to come back. Examples of this could be whether the audience didn't like certain CGI efforts, the first installment of a series was not as pleasing, or whether they need to invest their money into different projects. This allows the entertainment studios to create action items to improve the products. Making changes from negative reviews will ensure greater success because they are not going to lose customers. Negative reviews are one of the biggest indicators of whether a product will succeed or fail.
+
+
 
 ## Model Comparison Table
 
@@ -36,13 +39,24 @@ This assignment has us using Machine Learning Algorithms and Feature Engineering
 | Random Forest | TF-IDF | 0.8526 | 93.3095 | 0.854807 | 8 | Not as Interpretable but can give the most insights |
 
 
+## Custom Interference Summary
 
+- **Correct Classifications:** 18/20
 
-
-
-
+Key Findings
+- When it comes to the text within the domain of this subject, the model performed very well. 
+- With the trickier reviews, the word choice is very important.
+- Words with multiple meanings can affect the prediction that the model makes.
+- The way the words are tokenized and vectorized have an affect on the meaning of each word and can affect the way the model makes a prediction.
+- When it comes to out of context reviews, the model performs very well. However, the way words are used again has a very important affect. 
+- Emphasized words can throw off the entire prediction if there are not enough words of the opposite emotion to bring it back.
+- Since machine learning does not handle slang well, it can affect the emotion behind a review.
+- I would trust this model to be generalized in production. 
+- Model is successful 90% of the time and is successful in out-of-domain reviews 80% of the time.
 
 ## Recommendation with Justification
+
+Based on the data provided in the Model Comparison Idea above, I would recommend using the Logistic Regression model combined with the Tokenization and Vectorization from the TF-IDF process. For sentiment analysis and text classification in reviews, it is very important that we optimize the right performance metric. In this case, it is very important to max the F1 score because that is the statistic that shows the balance between Precision and Recall. If we optimize for Precision, we are only looking at the Positive Reviews to be Positive. Optimizing for recall would mean that accuracy would drop significantly and we would be looking at almost every review as misclassified. Looking at the F1 score, will allow us to look at all of the correct classifications while addressing any misclassifications that may occur in the dataset. This model also scores higher than any other model in every single metric except for Training and Predicting Speed. The accuracy for this model is very high as presented in this code and as the Custom Interference showed it can be generalized while still being a high performing model. 
 
 ## Files
 - `notebooks/classification.ipynb` - Main analysis notebook
