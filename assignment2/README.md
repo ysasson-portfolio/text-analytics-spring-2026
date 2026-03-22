@@ -25,6 +25,7 @@ This assignment has us using Machine Learning Algorithms and Feature Engineering
 ## Model Comparison Table
 
 | Algorithm | Feature | Accuracy | Train+Predict (s) | Memory Usage | Interpretability|
+|:---------:|:-------:|:--------:|:-----------------:|:------------:|:----------------:|
 | Naive Bayes | CountVectorizer | 0.8562 | 0.2612 | 0.854894 | 1 | Most Interpretable |
 
 
