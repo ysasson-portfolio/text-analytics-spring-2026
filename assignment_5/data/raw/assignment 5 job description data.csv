@@ -1,4 +1,4 @@
-﻿Job Title,Company,Description,Source URL,Date Collected
+﻿Job Title,Company,Description,Source URL,Date Collected,Role Type
 Business Intelligence Analyst,Guitar Center,"About the Role:  
 At Guitar Center, the Data Team is deploying data to inform and empower the company with insight, to drive customer success and business value. We are looking for a Business Intelligence Analyst to help advance that vision as part of the Business Intelligence team, which is part of the larger central Data Organization. You will work with stakeholders and data peers to create a vibrant ecosystem that enables data self-service across the company. This is a chance to affect millions of musicians at the United States' largest musical retailer, and your success as part of a world-class analytics organization will make a visible impact. 
 
@@ -38,7 +38,7 @@ Willing to ask thoughtful questions, challenge assumptions constructively, and e
  
 Thrives in a fast-paced environment and is comfortable sharing perspectives that help improve analytical outcomes. 
  
-Retail and/or music industry experience is a plus. ",https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4384414218&origin=JYMBII_IN_APP_NOTIFICATION&originToLandingJobPostings=4392357648%2C4407124320,4/28/2026
+Retail and/or music industry experience is a plus. ",https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4384414218&origin=JYMBII_IN_APP_NOTIFICATION&originToLandingJobPostings=4392357648%2C4407124320,4/28/2026,Business Intelligence Analys
 "Business Intelligence Analyst, Sports - Brand Consulting",Creative Artists Agency,"Who We Are 
 Creative Artists Agency (CAA) is the leading entertainment and sports agency, with global expertise in filmed and live entertainment, digital media, publishing, sponsorship sales and endorsements, licensing, media finance, consumer investing, fashion, trademark licensing, and philanthropy. Distinguished by its culture of collaboration and exceptional client service, CAA’s diverse workforce identifies, innovates, and amplifies opportunities for the people and organizations that shape culture and inspire the world. The trailblazer of the agency business, CAA was the first to build a sports business, create an investment bank, launch a venture fund, found technology start-up companies, establish a philanthropic arm, build a business in China, and form a brand marketing services division, among other innovations.
 
@@ -71,7 +71,7 @@ Proficiency in Excel
 Bachelor of Science Degree Preferred
 
 Location
-This role will be located in our Los Angeles office. The Brand Consulting department offers a flexible work schedule and requires a minimum three days per week on-site.",https://www.linkedin.com/jobs/view/4402204259/,4/28/2026
+This role will be located in our Los Angeles office. The Brand Consulting department offers a flexible work schedule and requires a minimum three days per week on-site.",https://www.linkedin.com/jobs/view/4402204259/,4/28/2026,Business Intelligence Analys
 Business Intelligence Analyst,Los Angeles Tourism and Convention Board,"WHO WE ARE
 
 The mission of the Los Angeles Tourism & Convention Board (Los Angeles Tourism) is to improve the quality of life for all Angelenos through the economic and community benefits of tourism. Representing over 1,000 local tourism-related businesses, Los Angeles Tourism is a non-profit organization responsible for promoting the City of Angels as one of the world’s premier travel destinations through its global brand marketing and sales efforts. Tourism is a cornerstone of Los Angeles County’s economy, ranking among its top five employers. The city welcomed an astonishing 50 million visitors fueling over 543,000 tourism-related jobs and driving more than $45 billion in business sales in 2024. Los Angeles Tourism proudly leads initiatives that celebrate and sustain this vibrant industry, including the renowned Dine LA program designed to showcase LA’s world-class culinary scene while supporting local restaurants and hospitality professionals. Dine LA has become one of the largest restaurant weeks in the nation—featuring nearly 450 restaurants across 88 neighborhoods and 33 global cuisines. As of June 2025, LA County is home to more than 180 Michelin-recognized restaurants, with 32 participating in Dine LA Restaurant Week. As one of the world’s premier sports capitals, Los Angeles is excited to host eight FIFA World Cup 26™ matches – including the U.S. Men’s National Team opening match – and welcome back the Super Bowl for the ninth time. With headquarters in Los Angeles and offices spanning London, Mumbai, Chengdu, Shanghai, Beijing, Guangzhou, and Sydney, Los Angeles Tourism operates on a truly global stage, sharing the city’s dynamic spirit with the world.
@@ -151,7 +151,7 @@ While performing the duties of this job, the employee is frequently required to 
 Able to carry, lift, roll luggage or equipment for work-related travel.
 Reliable transportation.
 
-Mandatory Vaccine Requirement: Los Angeles Tourism continues to prioritize the health and safety of our workforce. Consistent with that commitment, in light of the substantial and growing body of evidence that vaccinations remain the most effective protection against the spread the COVID-19, we require that members of our team be fully vaccinated as a condition of employment. For individuals with medical conditions or sincerely held religious beliefs that prevent vaccination, the Company will consider requests for reasonable accommodation consistent with our policy and applicable law.",https://www.linkedin.com/jobs/view/4366060859/,4/28/2026
+Mandatory Vaccine Requirement: Los Angeles Tourism continues to prioritize the health and safety of our workforce. Consistent with that commitment, in light of the substantial and growing body of evidence that vaccinations remain the most effective protection against the spread the COVID-19, we require that members of our team be fully vaccinated as a condition of employment. For individuals with medical conditions or sincerely held religious beliefs that prevent vaccination, the Company will consider requests for reasonable accommodation consistent with our policy and applicable law.",https://www.linkedin.com/jobs/view/4366060859/,4/28/2026,Business Intelligence Analys
 Business Analyst,Red Bull Distribution Company,"In this role, the successful candidate will be instrumental in supporting the design, implementation, and distribution of business reports and exploratory data analysis (EDA) that integrate sales, finance, human resources (HR), and/or operations data. Additionally, this position will involve understanding critical business challenges, gathering data, conducting analyses, and interpreting findings, while simultaneously developing, streamlining, and updating key performance indicators (KPIs), dashboards, scorecards, and reports.
 
 All the responsibilities we'll trust you with:
@@ -191,7 +191,7 @@ The job also necessitates specific vision abilities, including close vision, dis
 The work environment involves exposure to moving mechanical parts and outdoor weather conditions.
 Additionally, the noise level in the workplace is typically moderate.
 
-This position is open to U.S. citizens, U.S. permanent residents, or individuals who are currently authorized to work in the United States on a valid visa.",https://www.linkedin.com/jobs/view/4405852876/,4/28/2026
+This position is open to U.S. citizens, U.S. permanent residents, or individuals who are currently authorized to work in the United States on a valid visa.",https://www.linkedin.com/jobs/view/4405852876/,4/28/2026,Business Analyst
 Business Analyst,Hadrian,"Hadrian is building autonomous factories that help aerospace and defense companies manufacture rockets, satellites, jets, and ships up to 10x faster and up to 2x cheaper. By combining advanced software, robotics, and full-stack manufacturing, we are reinventing how America produces its most critical parts.
 
 We’re accelerating our mission with the launch of Factory 3 in Mesa, Arizona, a 290,000-square-foot facility creating 350 new jobs. We are expanding rapidly to support thousands of future hires, launching Hadrian Maritime to expand into naval production, and introducing a Factory-as-a-Service model that delivers complete systems instead of individual parts.
@@ -257,7 +257,7 @@ Experience with dbt, Python (pandas), or modern BI/dashboarding tools
 Background in manufacturing, aerospace/defense, or supply chain analytics
 Familiarity with ERP or MES systems (e.g. SAP, Oracle) and financial/cost modeling concepts
 Working knowledge of shop floor operations, production planning, and machining processes
-Experience moving from a scrappy v1 to a stable, well-documented v2 — with hygiene around ownership, testing, and versioning",https://www.linkedin.com/jobs/view/4402613474/,4/28/2026
+Experience moving from a scrappy v1 to a stable, well-documented v2 — with hygiene around ownership, testing, and versioning",https://www.linkedin.com/jobs/view/4402613474/,4/28/2026,Business Analyst
 Business Analyst,Polestar Analytics,"About the job
 Job Title: Business Analyst - Retail
 
@@ -335,7 +335,7 @@ Requirements added by the job poster
 
 • Working in an onsite setting
 
-• No need for visa sponsorship",https://www.linkedin.com/jobs/view/4399610949/,4/28/2026
+• No need for visa sponsorship",https://www.linkedin.com/jobs/view/4399610949/,4/28/2026,Business Analyst
 Business Analyst I,"Skyworks Solutions, Inc.","If you are looking for a challenging and exciting career in the world of technology, then look no further. Skyworks is an innovator of high-performance analog semiconductors whose solutions are powering the wireless networking revolution. Through our broad technology expertise and one of the most extensive product portfolios in the industry, we are Connecting Everyone and Everything, All the Time.
 
 At Skyworks, you will find a fast-paced environment with a strong focus on global collaboration, minimal layers of management, and the freedom to make meaningful contributions in a setting that encourages creative thinking. We are excited about the opportunity to work with you and glad you want to be part of a team of talented individuals who together are changing the way the world communicates.
@@ -362,7 +362,7 @@ Experience of using Hyperion and/or SAP in past job is a plus; Strong Microsoft 
 Excellent face-to-face, telephone and e-mail communication
 Minimum Job-Related Experience Required: 2 years related experience
 Candidate needs to work closely with business from international locations
-Clearly defines and utilizes processes in daily work; looks for innovative ways to streamline work processes",https://www.linkedin.com/jobs/view/4403514344/,4/28/2026
+Clearly defines and utilizes processes in daily work; looks for innovative ways to streamline work processes",https://www.linkedin.com/jobs/view/4403514344/,4/28/2026,Business Analyst
 "Sr. Analyst, Strategy and Analytics",SoFi Stadium and Hollywood Park,"Hollywood Park, a near 300-acre sports and entertainment destination, is being developed by Los Angeles Rams Owner/Chairman E. Stanley Kroenke with the 70,000-seat SoFi Stadium as its centerpiece. Hollywood Park is the largest urban mixed-use mega development under construction in the Western United States. When complete, Hollywood Park will have up to 2,500 residences, a hotel, a retail district reaching up to 890,000 square feet, up to 5 million square feet of office space, and more than 25-acres of public parks and open space.
 
 Home to the Los Angeles Chargers and Super Bowl LVI Champion Los Angeles Rams, SoFi Stadium is the host of world-renowned sporting events, including Super Bowl LVI in 2022, College Football Playoff National Championship game 2023, WrestleMania 2023, World Cup 2026, and the Opening and Closing Ceremonies of the Olympics in 2028. Adjacent to the stadium and under the same roof canopy is a 2.5-acre open-air plaza, American Airlines Plaza, and the 6,000-seat YouTube Theater. YouTube Theater is an intimate venue, making it the perfect place for concerts, comedy, awards shows, esports competitions, community gatherings, conferences and more.
@@ -444,7 +444,7 @@ Demonstrated success using statistical, quantitative modeling, and forecasting m
 Experience working on projects related to pricing, retention, lead scoring, survey research is a plus.
 Capable of working on multiple projects simultaneously, highly collaborative, able to build long-term relationships with cross-functional teams.
 Highly organized and detailed orientated.
-Excellent communication, presentation, and relationship management skills.",https://www.linkedin.com/jobs/view/4388281012/,4/28/2026
+Excellent communication, presentation, and relationship management skills.",https://www.linkedin.com/jobs/view/4388281012/,4/28/2026,Strategy Analyst
 Strategy Associate,Cedars Sinai,"Align yourself with an organization that has a reputation for excellence! Cedars-Sinai was awarded the National Research Corporation’s Consumer Choice Award 19 times for providing the highest-quality medical care in Los Angeles. We also were awarded the Advisory Board Company’s Workplace of the Year. This annual award recognizes hospitals and health systems nationwide that have outstanding levels of employee engagement. We offer an outstanding benefits package that includes health care, paid time off, and a 403(B). Join us! Discover why U.S. News & World Report has named us one of America’s Best Hospitals.
 
 What will you be doing in this role?
@@ -470,7 +470,7 @@ Requirements:
 
 Bachelor’s degree required. MBA, MPH, MHA, or MPA preferred. Course work should include planning, finance, marketing, accounting, information systems and business strategy.
 
-A minimum of 2 years of experience planning, finance, strategy and/or business development experience in a healthcare organization or consulting organization providing services to the healthcare industry; or equivalent experience.",https://www.linkedin.com/jobs/view/4400809577/,4/28/2026
+A minimum of 2 years of experience planning, finance, strategy and/or business development experience in a healthcare organization or consulting organization providing services to the healthcare industry; or equivalent experience.",https://www.linkedin.com/jobs/view/4400809577/,4/28/2026,Strategy Analyst
 "Manager, Strategy",Paramount,"The Manager, Strategy will support the development and execution of the growth strategy for Paramount Products & Experiences. The role requires strategic and analytical thinking, proficient modeling capabilities, and remarkable collaboration and communication skills. The successful candidate will possess the ability to interface effectively with multiple levels of management across the business and Paramount.
 
 Responsibilities
@@ -493,4 +493,4 @@ Additional Qualifications
 Superior strategic and business acumen
 Outstanding verbal and written communications skills, particularly the ability to develop arguments and present them concisely to a range of stakeholders, including executives
 Strong work ethic and attention to detail
-Outstanding multi-tasking and teamwork capabilities",https://www.linkedin.com/jobs/view/4398583482/,4/28/2026
+Outstanding multi-tasking and teamwork capabilities",https://www.linkedin.com/jobs/view/4398583482/,4/28/2026,Strategy Analyst
