@@ -1,0 +1,87 @@
+WHO WE ARE
+
+The mission of the Los Angeles Tourism & Convention Board (Los Angeles Tourism) is to improve the quality of life for all Angelenos through the economic and community benefits of tourism. Representing over 1,000 local tourism-related businesses, Los Angeles Tourism is a non-profit organization responsible for promoting the City of Angels as one of the world’s premier travel destinations through its global brand marketing and sales efforts. Tourism is a cornerstone of Los Angeles County’s economy, ranking among its top five employers. The city welcomed an astonishing 50 million visitors fueling over 543,000 tourism-related jobs and driving more than $45 billion in business sales in 2024. Los Angeles Tourism proudly leads initiatives that celebrate and sustain this vibrant industry, including the renowned Dine LA program designed to showcase LA’s world-class culinary scene while supporting local restaurants and hospitality professionals. Dine LA has become one of the largest restaurant weeks in the nation—featuring nearly 450 restaurants across 88 neighborhoods and 33 global cuisines. As of June 2025, LA County is home to more than 180 Michelin-recognized restaurants, with 32 participating in Dine LA Restaurant Week. As one of the world’s premier sports capitals, Los Angeles is excited to host eight FIFA World Cup 26™ matches – including the U.S. Men’s National Team opening match – and welcome back the Super Bowl for the ninth time. With headquarters in Los Angeles and offices spanning London, Mumbai, Chengdu, Shanghai, Beijing, Guangzhou, and Sydney, Los Angeles Tourism operates on a truly global stage, sharing the city’s dynamic spirit with the world.
+
+THE OPPORTUNITY
+
+The Business Intelligence Analyst will have a day-to-day focus on developing, improving, and maintaining our BI tools and databases. This position will play a vital role in data management along with driving actionable insights across the organization. You will be our go to person for training and educating staff on the Domo data experience platform. The ideal candidate will have previous experience with BI tools, the ability to communicate effectively, and will require a strong problem-solving orientation.
+
+What You Will Do
+
+Data Analysis and Report Development: Lead data analyst creating reports that drive actionable insights in Domo. This will include blending multiple data sources, blended metrics, creating indices, and increasingly complex models to derive more analytical value from the data. (30%)
+Data Management: Data management activities include data ingestion, transformation, data quality, taxonomies, developing ETL data pipelines, managing data connections, and leveraging Machine Learning/AI. (30%)
+Domo Administration: Primary Administrator responsible for managing the Domo environment including connecting to new data sources, maintaining data quality, managing users, cleaning unused reports, troubleshooting reports and formulas. (15%)
+Project Management: Key role in managing the data partner relations including timeline report delivery, trouble shooting, scoping, etc. Internally, may be required to conduct needs analysis, scope work, and manage data-related projects. (15%)
+Training and educating staff: As the Domo SME, responsible for training staff and stakeholders on how to use data and Domo which can range from viewing a report to creating programmatic formulas and custom reports. (5%)
+Perform other duties as assigned (5%)
+
+SOME OTHER THINGS YOU MAY DO
+
+Partner with external vendors as needed (i.e., Rove, Simpleview, Visa, STR, etc.)
+
+WHAT YOU'LL NEED TO SUCCEED
+
+A minimum of 3-5 years of relevant experience is required.
+High school diploma or equivalent.
+Must be willing to partake in a comprehensive background check including a drug test in accordance with applicable laws.
+Proficiency with Domo or other Business Intelligence tools (i.e., Tableau, Power BI).
+Proficiency in SQL and Python programming.
+Data architecture design and data preparation experience.
+Self-starter with strong problem-solving abilities and the ability to troubleshoot issues.
+Ability to communicate a coherent data story to business users.
+Must be proficient in MS Office (Word, Excel, PowerPoint).
+Excellent verbal, written, and interpersonal communication skills.
+Dependable, great attitude, highly motivated and a team player.
+Possess strong organizational skills and attention to detail.
+Ability to multi-task and meet multiple deadlines.
+Ability to communicate effectively across various departments.
+Ability to work in a changing environment.
+
+NICE TO HAVES
+
+Bachelor’s degree preferred.
+Tourism experience in any capacity.
+Report design (i.e., color schemes, etc.).
+
+COMPENSATION RANGE
+
+Exact compensation may vary based on skills and experience$80,000 - $100,000 annuallyBonus Eligible
+
+WHAT'S IN IT FOR YOU
+
+At Los Angeles Tourism, we believe your best work happens when you have the tools to stay healthy, enjoy the present moment, save for your future, and look forward to coming into work. That’s why we’re committed to providing a competitive and comprehensive benefits program.
+
+Hybrid work environment
+Remote Monday and Friday
+DTLA Tuesday through Thursday
+Company paid parking in DTLA
+Early Friday’s – our office closes every Friday at 2:30 pm
+Work Remotely week of Thanksgiving
+Holiday Office Closure (December 24th – January 1st)
+15 Paid Company Holidays
+Paid Vacation Time
+Paid Sick Time
+Paid Floating Holidays
+Paid Family Leave
+Comprehensive health insurance (both PPO and HMO plans available)
+Dental and vision plans (100% employer paid for some elections)
+Pet insurance
+Employer-paid life insurance, AD&D, short-term disability, and long-term disability, Aflac
+Employee Assistance Program
+Flexible Spending Account (Healthcare & Dependent Care)
+401(k) Retirement Savings Plan with up to 6% match that vests immediately
+401(k) match for qualified student loan payments
+Employee Referral Program
+Monthly internet and phone stipend
+
+Los Angeles Tourism & Convention Board reserves the right to modify the benefit plans and employee services at any time, with or without notice.
+
+PHYSICAL REQUIREMENTS – ESSENTIAL PHYSICAL TASKS
+The physical demands are representative of those that must be met by a team member to successfully perform the essential functions of the job. Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.
+
+While performing the duties of this job, the employee is frequently required to stand, walk, move. The employee must occasionally lift, carry, pull, push, transport and/or move up to 25 pounds. Ascends and/or descends stairs. Specific vision abilities required by this job include color vision. Requires prolonged sitting, driving, some bending, some twisting neck and body, some stooping and stretching/reaching (up, down, out), requires grasping, feeling, and detecting, requires eye-hand coordination and manual dexterity sufficient to operate a keyboard, mouse, photocopier, fax machine, telephone, calculator, projector, screen for presentations, and other office equipment on a repetitive basis. Requires normal range of hearing, talking, and eyesight to record, prepare and communicate appropriate reports and information.
+
+Able to carry, lift, roll luggage or equipment for work-related travel.
+Reliable transportation.
+
+Mandatory Vaccine Requirement: Los Angeles Tourism continues to prioritize the health and safety of our workforce. Consistent with that commitment, in light of the substantial and growing body of evidence that vaccinations remain the most effective protection against the spread the COVID-19, we require that members of our team be fully vaccinated as a condition of employment. For individuals with medical conditions or sincerely held religious beliefs that prevent vaccination, the Company will consider requests for reasonable accommodation consistent with our policy and applicable law.

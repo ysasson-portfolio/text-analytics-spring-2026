@@ -1,0 +1,66 @@
+Hadrian is building autonomous factories that help aerospace and defense companies manufacture rockets, satellites, jets, and ships up to 10x faster and up to 2x cheaper. By combining advanced software, robotics, and full-stack manufacturing, we are reinventing how America produces its most critical parts.
+
+We’re accelerating our mission with the launch of Factory 3 in Mesa, Arizona, a 290,000-square-foot facility creating 350 new jobs. We are expanding rapidly to support thousands of future hires, launching Hadrian Maritime to expand into naval production, and introducing a Factory-as-a-Service model that delivers complete systems instead of individual parts.
+
+Hadrian is backed by leading investors including T. Rowe Price, Lux Capital, Founders Fund, and Andreessen Horowitz, our fast-growing team is united around reindustrializing American manufacturing for the 21st century and beyond.
+
+As a Business Analyst at Hadrian, you will partner with stakeholders across operations, supply chain, and cross-functional programs to support a business scaling across many factories. You will work with large-scale manufacturing data to deliver clear, actionable insights on margins, delivery performance, and production bottlenecks. This role owns ad-hoc analysis, self-service reporting, and dashboard development. You will build and maintain scalable data models, identify data quality issues, and partner with Data Engineering to improve data reliability and pipeline performance.
+
+This is a high-impact role open across experience levels, with opportunities to grow into data engineering or software-focused paths.
+
+We are looking for multiple Business Analysts across three tracks:
+
+Business Operations — Owns analytics and tooling for special projects and cross-functional programs
+
+Manufacturing & GTM — Drives operational and production analytics to improve throughput, delivery, and margins
+
+Supply Chain & Operations — Partners with ops and supply chain teams to deliver scalable data models and pipeline reliability
+
+What You'll Do
+
+Analytics & data modeling
+
+Write and iterate SQL to retrieve and combine data across the Hadrian stack; document assumptions and coordinate resolution of data quality issues with Data Engineering
+Build and maintain scalable data models to support reporting, analytics, and operational decision-making
+Lead investigations with ambiguous or messy data; validate with stakeholders; summarize findings clearly
+Flag anomalies, hypothesize root causes, and document fixes and assumptions
+
+Dashboards & reporting
+
+Develop dashboards and reporting tools to track KPIs such as throughput, yield, cycle time, on-time delivery, scrap/rework rates, and machine efficiency
+Build Retool/BI solutions that start scrappy but are maintainable — with clear owners, versioning, access controls, documentation, and monitoring
+Standardize reporting and analytics across the organization
+
+Cross-functional partnership
+
+Collaborate with stakeholders across Special Projects, Engineering, Quality, Supply Chain, and Program Management to identify key decisions and the data that supports them
+Translate complex operational data into meaningful insights for senior leadership
+Communicate conclusions and recommendations clearly to both technical and non-technical audiences
+Provide business cases, ROI analyses, and scenario modeling to support strategic initiatives
+
+Operational improvement
+
+Analyze manufacturing workflows, machining throughput, and capacity utilization to identify process improvements
+Support ERP optimization and evaluate digital tools that improve traceability and compliance
+Conduct cost/variance analysis, performance forecasting, and delivery risk tracking against production targets
+Support Lean and Six Sigma initiatives, root-cause analysis, and corrective/preventive actions
+
+What We're Looking For
+
+2–5 years of professional experience in business analysis, data analysis, or operations support
+Strong SQL skills — comfortable self-serving most questions and knowing when to ask for help
+Experience building dashboards and reporting tools that stakeholders actually use, optimized for decision-making
+Ability to translate business problems into structured analytical approaches and communicate results clearly
+Strong data validation instincts — checks for errors and avoids sloppy deliverables
+Self-directed mindset with the ability to operate in ambiguous environments and manage multiple priorities
+Experience working with cross-functional stakeholders; strong ability to learn domain context quickly
+Proactively identifies and executes high-leverage work; escalates issues early
+Genuine curiosity about manufacturing and Hadrian's mission; ability to learn fast
+
+What Will Set You Apart
+
+Experience with dbt, Python (pandas), or modern BI/dashboarding tools
+Background in manufacturing, aerospace/defense, or supply chain analytics
+Familiarity with ERP or MES systems (e.g. SAP, Oracle) and financial/cost modeling concepts
+Working knowledge of shop floor operations, production planning, and machining processes
+Experience moving from a scrappy v1 to a stable, well-documented v2 — with hygiene around ownership, testing, and versioning

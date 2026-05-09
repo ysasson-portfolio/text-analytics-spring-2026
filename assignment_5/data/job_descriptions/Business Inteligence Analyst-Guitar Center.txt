@@ -1,0 +1,40 @@
+About the Role:  
+At Guitar Center, the Data Team is deploying data to inform and empower the company with insight, to drive customer success and business value. We are looking for a Business Intelligence Analyst to help advance that vision as part of the Business Intelligence team, which is part of the larger central Data Organization. You will work with stakeholders and data peers to create a vibrant ecosystem that enables data self-service across the company. This is a chance to affect millions of musicians at the United States' largest musical retailer, and your success as part of a world-class analytics organization will make a visible impact. 
+
+ 
+Responsibilities:  
+BI Development & Dashboard Delivery 
+Build, migrate, and maintain dashboards in Omni. 
+Develop reusable data components within Omni’s data layer to support consistent and scalable reporting. 
+Apply data visualization, storytelling, and UX best practices to create intuitive and effective dashboards. 
+Optimize queries, dashboards, and data models within Omni to ensure acceptable performance and usability. 
+ 
+ 
+Data Governance & Collaboration 
+Help maintain a trusted BI reporting layer by ensuring consistent use of source-of-truth metrics and definitions across dashboards. 
+Identify and help resolve data quality issues or metric discrepancies, partnering with data engineering and business teams when needed. 
+Help maintain BI governance within Omni, including proper permissions and review processes. 
+Partner with stakeholders to understand reporting needs and translate data into clear, actionable insights. 
+Provide basic training, documentation, and support to encourage the adoption of BI tools and dashboards. 
+ 
+To join our band, you'll need the following experience:    
+3+ years of professional experience in BI, analytics, or a related role, with a demonstrated ability to deliver dashboards, reports, or analytical solutions in a business environment. 
+ 
+Strong proficiency in SQL and data visualization, with the ability to translate data into clear, actionable insights. 
+ 
+Experience working with BI and analytics tools such as Looker, Omni, or similar platforms, including familiarity with reporting-layer data modeling concepts. 
+ 
+Demonstrated ownership and reliability, with the ability to manage assigned workstreams, balance multiple priorities, and deliver high-quality work on time. 
+ 
+Comfortable collaborating closely with stakeholders and senior team members. 
+ 
+Preferred Qualifications:  
+Curious self-starter who takes initiative in learning new tools, domains, and analytical approaches. 
+ 
+Strong critical thinking skills and persistence when solving complex or ambiguous data problems. 
+ 
+Willing to ask thoughtful questions, challenge assumptions constructively, and explore data to uncover insights. 
+ 
+Thrives in a fast-paced environment and is comfortable sharing perspectives that help improve analytical outcomes. 
+ 
+Retail and/or music industry experience is a plus. 

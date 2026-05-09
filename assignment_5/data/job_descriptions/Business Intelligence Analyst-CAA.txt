@@ -1,0 +1,33 @@
+Who We Are 
+Creative Artists Agency (CAA) is the leading entertainment and sports agency, with global expertise in filmed and live entertainment, digital media, publishing, sponsorship sales and endorsements, licensing, media finance, consumer investing, fashion, trademark licensing, and philanthropy. Distinguished by its culture of collaboration and exceptional client service, CAA’s diverse workforce identifies, innovates, and amplifies opportunities for the people and organizations that shape culture and inspire the world. The trailblazer of the agency business, CAA was the first to build a sports business, create an investment bank, launch a venture fund, found technology start-up companies, establish a philanthropic arm, build a business in China, and form a brand marketing services division, among other innovations.
+
+The Role
+The Business Intelligence Analyst is responsible for supporting the development and delivery of business intelligence solutions that enable deeper insight into performance, audiences, and business outcomes. The ideal candidate will contribute to the creation of Power BI dashboards, data models, and reporting workflows, while helping to automate and scale repeatable analytics processes. This role will partner closely with managers and cross-functional teams to translate complex datasets into clear, actionable insights that support client work, internal reporting, and growth initiatives. The analyst will also assist in exploring new tools, data sources, and methodologies, contributing to reusable analytics assets and helping advance the team’s data-driven capabilities.
+
+Responsibilities
+Support the development and maintenance of Power BI dashboards and reports
+ Assist with data cleaning, entry, and validation to ensure accuracy and consistency
+Build and update Power Query (M code) transformations for data preparation
+Write and maintain DAX measures to support reporting and analysis
+Help connect, filter, and manage multiple datasets across reports
+ Support data modeling and mapping efforts across business use cases
+Assist in designing intuitive UI/UX for dashboards, ensuring clarity for end users
+Partner with senior team members to help translate data into insights for internal stakeholders
+Document processes, assumptions, and data definitions as needed
+
+Qualifications
+Working knowledge of Power BI, including:
+Power Query (M)
+ DAX
+Dataset connections
+ Filtering and parameters
+Power BI Service fundamentals
+2+ years of experience in analytics, BI, or a related function
+Strong attention to detail and comfort working with raw data
+Ability to explain data and findings clearly to non-technical audiences
+Curiosity and eagerness to learn new tools and techniques
+Proficiency in Excel
+Bachelor of Science Degree Preferred
+
+Location
+This role will be located in our Los Angeles office. The Brand Consulting department offers a flexible work schedule and requires a minimum three days per week on-site.
