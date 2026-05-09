@@ -1,0 +1,84 @@
+About Hollywood Park
+
+Hollywood Park, a near 300-acre sports and entertainment destination, is being developed by Los Angeles Rams Owner/Chairman E. Stanley Kroenke with the 70,000-seat SoFi Stadium as its centerpiece. Hollywood Park is the largest urban mixed-use mega development under construction in the Western United States. When complete, Hollywood Park will have up to 2,500 residences, a hotel, a retail district reaching up to 890,000 square feet, up to 5 million square feet of office space, and more than 25-acres of public parks and open space.
+
+Home to the Los Angeles Chargers and Super Bowl LVI Champion Los Angeles Rams, SoFi Stadium is the host of world-renowned sporting events, including Super Bowl LVI in 2022, College Football Playoff National Championship game 2023, WrestleMania 2023, World Cup 2026, and the Opening and Closing Ceremonies of the Olympics in 2028. Adjacent to the stadium and under the same roof canopy is a 2.5-acre open-air plaza, American Airlines Plaza, and the 6,000-seat YouTube Theater. YouTube Theater is an intimate venue, making it the perfect place for concerts, comedy, awards shows, esports competitions, community gatherings, conferences and more.
+
+Culture
+
+Hollywood Park is being brought to life by a deeply experienced team of creative forward-thinkers. The project is a celebration of all that Los Angeles has to offer. We are inspired by our diverse Inglewood community as a place for the community to be, to see and to connect.
+
+Hollywood Park is committed to building and maintaining a workplace that celebrates the diversity of our team members, allowing them to bring their authentic selves to work every day.
+
+At the heart of Hollywood Park, lies our dedication to our purpose, promise, and commitments. Our PURPOSE is creating extraordinary experiences, one moment at a time. Our PROMISE is to be an iconic destination that celebrates our diverse and vibrant community. We promise to exceed expectations while cultivating a fun and safe experience where lasting memories are made. Our COMMITMENTS are outlined by S.T.A.R.S.
+
+Our S.T.A.R.S. commitments are enabled by five foundational principles:
+
+Start with Care – create a lasting impact through genuine care 
+Thrive as a Team – create an environment of collaboration and encouragement
+Anticipate Unspoken Needs – be proactive in delivering extraordinary service and support others
+Resolve with Respect – treat others with empathy, patience, and kindness
+Safety Always – maintain a safe and secure environment
+
+
+As the Sr. Analyst, Strategy and Analytics, You Will..
+
+The Senior Analyst for the Strategy & Analytics team at Hollywood Park will be responsible for owning the most complex business analytics priorities for SoFi Stadium, YouTube Theater, and the Hollywood Park campus. In this role, you will be a primary stakeholder in operational projects for the Ticketing, Partnerships, Suites, Concessions, Merchandise, & Event/Parking Operations teams. You will use a robust analytical skillset to deliver insightful analysis based on advanced analytical models. Your work will be used by department heads at Hollywood Park and SoFi Stadium to help drive better and more strategic business decisions.
+
+Our ideal candidate thrives when dealing with complex problems and ambiguity by using a variety of analytical tools to find answers. They have experience in solving common pain points for sports teams and stadiums. are hungry to learn and remain adaptable to shifting priorities. They are comfortable working with large amounts of data with high attention to detail. They will take the initiative to go deeper into data to pull out the most helpful insights for the organization.
+
+This role will play an integral part in identifying areas to drive consumer revenue growth and setting the standard for events at SoFi Stadium.
+
+More Specific Responsibilities Include, But Are Not Limited To…
+
+Dashboarding and Reporting:
+
+Run regular reports and analyses using a variety of tools (Alteryx, Snowflake, SQL server, Tableau, Google Looker, etc.)
+Develop and maintain complex, multi-layered dashboards to enable clear visibility into gameday and business performance
+Synthesize insights from regular reports and send findings to stakeholders on regular cadence.
+
+
+Data Management & Operations:
+
+Extract, join, and transform data from a variety of databases and data sources (Snowflake, Google BigQuery, SFTPs, etc.).
+Assure data quality by conducting regular quality assurance checks against source systems.
+Collaborate with in-house data engineers and third-party data technology partners to maintain clean data environments for analytics use cases.
+Build automated data pipelines into CRM (Salesforce) for efficient sales targeting.
+Develop data workflows for a variety of operational use cases.
+
+
+Analytical Modeling & Insights:
+
+Apply advanced analytics techniques (statistical-modeling / model visualization) to extract actionable insights through analysis of large-scale, high-dimensional data from a variety of data sources.
+Analyze guest feedback surveys to identify areas of opportunity to improve event operations and guest experience.
+Develop and maintain lead scoring models for premium sales teams using a variety of data source inputs.
+Analyze SoFi Stadium operations including parking, ingress, concessions/merchandise, and retail district data to develop initial insights and recommendations for operational improvements.
+Perform ad-hoc analyses to support key business objectives from a variety of departments.
+
+
+Other:
+
+Create presentations to share insights with department leaders.
+Assist on some football gamedays and variety of other SoFi Stadium events.
+Perform other duties as assigned.
+
+
+We’d Love to Hear From People With…
+
+BA/BS college degree or its equivalent in relevant area – Data Science, Economics, Statistics, Mathematics, Business Administration.
+MBA or Master’s Degree in Data Analytics, Computer Science, Business Intelligence, Statistics or Mathematics is a plus.
+3-4 years of experience in data analytics or business intelligence, experience with sports team or club.
+Technical Skills:
+Expert proficiency with Microsoft Excel and PowerPoint.
+Advanced proficiency with visualization tools (Tableau and Google Looker expertise is a plus).
+Advanced proficiency with ETL and other data workflow tools (Alteryx, Matillion, etc).
+Proficient with common data languages (SQL, Python, R, etc).
+Experience using workflows for automation purposes is a plus.
+Proficiency with Ticketmaster / Archtics Data Platform preferred.
+Familiarity with Google Cloud Data Platform (Big Query, Looker, GA4, etc.).
+Ability to think critically and analyze data from a variety of sources.
+Demonstrated success using statistical, quantitative modeling, and forecasting methods (e.g. R, Python), a plus.
+Experience working on projects related to pricing, retention, lead scoring, survey research is a plus.
+Capable of working on multiple projects simultaneously, highly collaborative, able to build long-term relationships with cross-functional teams.
+Highly organized and detailed orientated.
+Excellent communication, presentation, and relationship management skills.
