@@ -1,0 +1,47 @@
+Yarden Sasson
+
+
+EDUCATION
+
+Loyola Marymount University                                                        
+Masters of Science in Business Analytics                                                                                         Class of 2026
+•	Relevant Coursework: Data Management for Business Intelligence, Introduction to Machine Learning, Strategic Integration Analytics
+•	Honors Society: Beta Gamma Sigma
+
+University of California, Los Angeles (UCLA)                                                        
+Bachelors of Science in Cognitive Science with a Specialization in Computing                               Class of 2020
+•	Relevant Coursework: Advanced Topics in MATLAB Programming for Behavioral Sciences, Science of Language, and Neural Networks
+•	Activities: Den Operations Club, UCLA’s The Den, UCLA Hillel
+
+WORK EXPERIENCE
+
+Israel Economic and Trade Mission to the West Coast                                                              
+Head of Innovation, Los Angeles                                                                                            (May 2023-Present)
+•	Conduct and analyze market research to provide actionable insights into business strategies 
+•	Organize high-impact business events with multiple partners and B2B meetings including national pavilions at CES, NRF, RSA, HLTH, and CyberWeek TLV Conferences. 
+•	Facilitate go-to-market strategies for Israeli companies into the U.S. market by leveraging data analytics to identify business opportunities and optimize business plans
+•	Analyze market trends and opportunities in sectors such as Cybersecurity, Retail Tech, and Entertainment using advanced data analysis technologies.
+•	Develop a network of investors, CEOs, CISOs, and Heads of R&D across the West Coast that are interested in advising, investing, or buying from Israeli companies
+•	Analyze and improve marketing materials and presentations for startups including data visualization and analytical insights
+•	Consistently source relevant Israeli companies for Fortune 1000 companies based on current innovation initiatives and or investment theses
+
+UCLA Computer Store                                                              
+Lead Technician/Project Lead                                                                                      (January 2019-June 2020)
+•	Troubleshot and repaired customers’ computers and devices
+•	Set up UCLA Computer Store’s Custom Screen Protector Project
+•	Led the training of 20 new employees in administrative and technical knowledge 
+
+RESEARCH EXPERIENCE
+
+Co-Mind Research Lab                                                              
+Research Assistant                                                                                                            (June 2019- May 2022)
+•	Gathered stimuli for the neural network from variable databases
+•	Used R to run tests and analyzed the resulting data both qualitatively and quantitatively
+•	Wrote reports and journals based on research and its’ analysis
+•	Incorporated relevant journal articles and sources into studies
+
+SKILLS
+
+•	Programming: Proficient in MATLAB, Python, and SQL. Basic knowledge of R, C++, HTML 5, CSS, and JavaScript
+•	Computer/Technical: Proficient in Tableau, Adobe Premiere Pro, Photoshop, Dreamweaver, FileMaker Pro, SolidWorks, Tableau Prep Builder, PowerBI, Microsoft Word, Excel, PowerPoint, Outlook, Keynote, and Pages. Basic knowledge of SPSS, Alteryx, and SAS
+•	Languages: Fluent in English and Hebrew
