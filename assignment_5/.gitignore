@@ -1,0 +1,28 @@
+# Environment variables / secrets
+.env
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ChromaDB / vector DB
+chroma_db/
+.chroma/
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# Streamlit cache
+.streamlit/cache/
+
+# Logs
+*.log
