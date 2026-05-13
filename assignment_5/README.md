@@ -55,7 +55,7 @@ There were two models that were used throughout the process in the Jupyter Noteb
 
 The Second tool that was used was a connection to OpenAI using their API key. This was paid and I chose it because of the fact that it is a tried and true model and that we can the model many times for a low cost. Also, having a OpenAI account prior to this assignment for ChatGPT has made it easy to purchase the necessary credits for this assignment. The only difference is that we need to make sure that I needed to make sure that the API key was put in the .env file to make it run properly.
 
-##Key Findings
+## Key Findings
 
 | Job Title | Company | Analysis Type | Retrieval Relevance | Skill Identification Accuracy | Actionability | Faithfulness |
 |---|---|---|---|---|---|---|
