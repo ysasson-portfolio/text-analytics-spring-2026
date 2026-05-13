@@ -708,11 +708,10 @@ if st.button("🏆 Run All 3 Analyses on Top 3 Matching Jobs", use_container_wid
             top_jd_text = job["text"]
             top_filename = job["source"]
 
-            top_label = top_filename
             top_job_title, top_company = get_job_info(
                 metadata,
                 top_filename,
-                top_label
+                top_filename
             )
 
             st.header(f"{top_company} -- {top_job_title}")
@@ -734,7 +733,7 @@ if st.button("🏆 Run All 3 Analyses on Top 3 Matching Jobs", use_container_wid
                         st.subheader(name)
                         st.markdown(result["answer"])
 
-                        with st.expander(f"View prompt for {top_company} -- {top_job_title} -- {name}"):
+                        with st.expander(f"View prompt for {name}"):
                             st.text(result["prompt"])
 
                         st.divider()
