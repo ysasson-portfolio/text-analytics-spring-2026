@@ -13,6 +13,7 @@ Create a .env file with:
 """
 
 import os
+from pathlib import Path
 import pandas as pd
 import streamlit as st
 import chromadb
@@ -28,6 +29,13 @@ st.set_page_config(
 )
 
 MODEL_ID = "gpt-4o-mini"
+
+BASE_DIR = Path(__file__).resolve().parent
+DATA_DIR = BASE_DIR / "data"
+JD_DIR = DATA_DIR / "job_descriptions"
+RESUME_DIR = DATA_DIR / "resume"
+METADATA_CSV = DATA_DIR / "jd_metadata.csv"
+METADATA_XLSX = DATA_DIR / "jd_metadata.xlsx"
 
 
 # ══════════════════════════════════════════
@@ -46,39 +54,41 @@ def load_pdf_file(filepath):
 
 
 def load_file(filepath):
-    if filepath.endswith(".pdf"):
+    filepath = str(filepath)
+    if filepath.lower().endswith(".pdf"):
         return load_pdf_file(filepath)
     return load_text_file(filepath)
 
 
-def load_all_jds(jd_dir="data/job_descriptions"):
+def load_all_jds(jd_dir=JD_DIR):
     docs = []
+    jd_dir = Path(jd_dir)
 
-    if not os.path.exists(jd_dir):
+    if not jd_dir.exists():
         return docs
 
-    for filename in sorted(os.listdir(jd_dir)):
-        filepath = os.path.join(jd_dir, filename)
-
-        if filename.endswith((".txt", ".pdf")):
+    for filepath in sorted(jd_dir.iterdir()):
+        if filepath.is_file() and filepath.suffix.lower() in [".txt", ".pdf"]:
             text = load_file(filepath)
 
             if text.strip():
                 docs.append({
                     "text": text,
-                    "source": filename
+                    "source": filepath.name
                 })
 
     return docs
 
 
-def load_resume(resume_dir="data/resume"):
-    if not os.path.exists(resume_dir):
+def load_resume(resume_dir=RESUME_DIR):
+    resume_dir = Path(resume_dir)
+
+    if not resume_dir.exists():
         return ""
 
-    for filename in os.listdir(resume_dir):
-        if filename.endswith((".txt", ".pdf")):
-            return load_file(os.path.join(resume_dir, filename))
+    for filepath in sorted(resume_dir.iterdir()):
+        if filepath.is_file() and filepath.suffix.lower() in [".txt", ".pdf"]:
+            return load_file(filepath)
 
     return ""
 
@@ -129,17 +139,11 @@ def chunk_documents(documents):
 
 @st.cache_data
 def load_metadata():
-    possible_paths = [
-        "data/jd_metadata.csv",
-        "data/jd_metadata.xlsx"
-    ]
+    if METADATA_CSV.exists():
+        return pd.read_csv(METADATA_CSV)
 
-    for path in possible_paths:
-        if os.path.exists(path):
-            if path.endswith(".csv"):
-                return pd.read_csv(path)
-            if path.endswith(".xlsx"):
-                return pd.read_excel(path)
+    if METADATA_XLSX.exists():
+        return pd.read_excel(METADATA_XLSX)
 
     return pd.DataFrame()
 
@@ -525,11 +529,11 @@ if client is None:
     st.stop()
 
 if collection is None:
-    st.error("No job descriptions found in data/job_descriptions/. Add your job description files there.")
+    st.error(f"No job descriptions found in {JD_DIR}. Add your job description files there.")
     st.stop()
 
 if not resume_text:
-    st.error("No resume found in data/resume/. Add your resume file there.")
+    st.error(f"No resume found in {RESUME_DIR}. Add your resume file there.")
     st.stop()
 
 
@@ -562,6 +566,8 @@ with st.sidebar:
     '''
     )
     st.write(f"**JDs loaded:** {len(jd_docs)}")
+    st.caption(f"JD path: {JD_DIR}")
+    st.caption(f"Resume path: {RESUME_DIR}")
     st.write("**Resume loaded:** Yes")
     st.write(f"**Model:** {MODEL_ID}")
     st.divider()
