@@ -176,7 +176,7 @@ def load_vectorstore():
 
 @st.cache_resource
 def load_llm():
-    api_key = os.environ.get("OPENAI_API_KEY", "")
+    api_key = st.secrets.get("OPENAI_API_KEY", os.environ.get("OPENAI_API_KEY", ""))
 
     if not api_key:
         return None
