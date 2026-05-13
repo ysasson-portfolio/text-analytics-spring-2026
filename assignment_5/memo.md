@@ -16,10 +16,14 @@ When building the model we made conducted quite a few experiments when it came t
 
 The job descriptions that were uploaded into the system varied in length which affected the overall number of clusters that were produced by the system. I did not want to put too large of a chunk size because it would go into the next description and change the context. I also wanted to make sure there was enough overlap to make sure that the descriptions could have a proper amount of context between the chunks. When looking at the way we chunk, I found it better to chunk by word instead of the fixed number of characters because it would not end the chunk in the middle of a word. This allows context to be maintained and easily interpretable by the model. 
 
-Creating the prompt that the LLM would use to conduct the analysis had to be crafted very carefully. Experiments were conducted throughout the prompt engineering process including the length of the prompt, specificity of the prompt, whether or not it included examples, and 
+Creating the prompt that the LLM would use to conduct the analysis had to be crafted very carefully. Experiments were conducted throughout the prompt engineering process including the length of the prompt, specificity of the prompt, whether or not it included examples, and how the prompt was broken down. The best prompt used specific sections within the prompt (i.e. Task and Restrictions) while also including an example. The more detail that was included the better the model performed. Also, having a few-shot approach (showing multiple examples within the prompt so that it can produce a very specific output) produced better results that were more detailed and relevant to the analysis that were trying to executed using the LLM. 
 
 **Results**
 
 
 
 **Key Limitation**
+
+A limitation this project has is that sometimes texts have subtle meanings that the model or the RAG method will be deemed as irrelevant. The way that this model works is that it takes the exact meaning of the words in the context that is defined by the embeddings and the text being passed into the LLM. For example if a job is asking for experience with data visualization software, it may not always process that Tableau qualifies for that requirement. The wording of the job description and the resume is very important to make sure that the model picks up all of the relevant pieces of text even if it is not explicitly stated. 
+
+Another limitation is that it takes the text too literally. When it comes to saying the amount of experience is necessary to do the job, it takes that as a major consideration. Most of the time requirements such as the amount of time they have been in the industry can be exaggerated by the people who are posting the job descriptions. Because of this the model can provide a more skewed judgement about whether the individual is qualified for the job. 

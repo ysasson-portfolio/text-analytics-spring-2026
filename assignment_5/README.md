@@ -22,6 +22,8 @@ This assignment has us applying language model concepts to a career problem. In 
 OPENAI_API_KEY=your_openai_api_key_here
 CHROMA_DB_DIR=./chroma_db
 
+Purchase the API key for OpenAI by going on platform.openai.com
+
 4. Make sure you have all of the files stored in the correct locations in the correct format including all job descriptions in the job_descriptions folder in .txt files, resume in the resume folder in a .txt file, metadata in the data folder in a csv file, streamlit application in the main folder, requirements.txt in the main folder, .gitignore in the main folder, .env stored locally only in the main folder, and the rag_pipeline notebook in the notebook folder. 
 
 5. Make sure that all of the required libraries are installed on your local machine. (can be done on the notebook)
