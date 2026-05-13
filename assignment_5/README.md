@@ -6,6 +6,9 @@
 ## Overview
 This assignment has us applying language model concepts to a career problem. In this case, LLMs and RAG were used in order to compare resumes to job descriptions and then perform three different kinds of analysis using effective prompt engineering, LLM processes, evaluating the output, and communicating these results to an audience. The three kinds of analysis were a keyword analysis, skills gap analysis, and a fit summary narrative. This analysis was done within a Jupyter Notebook created in Colab and then applied to a streamlit application so people can conduct their own analysis in an easy to use way. 
 
+## Link to Application
+https://bsan6200-assignment5-ys.streamlit.app/
+
 ## Dataset
 - Job Descriptions: Each job description has its own .txt file with a description that was copied and pasted from the Job Posting on LinkedIn.
 - Resume: Copied into a .txt file from my own resume.
@@ -66,25 +69,13 @@ The Second tool that was used was a connection to OpenAI using their API key. Th
 | Business Intelligence Analyst | Los Angeles Tourism and Convention Board | Keyword Alignment Analysis | Yes | Correct | 2 | Faithful |
 | Business Intelligence Analyst | Los Angeles Tourism and Convention Board | Fit Narrative Analysis | Yes | Incorrect | 3 | Hallucinated |
 
-**Which analysis type worked best?**
 
-Based on these Results I would say that the best analysis type was the skills gap analysis. 
+When it comes to this project there were a few key insights that I discovered. The first one is that the more information we are able to provide to a model through the prompt the better the results would be. When the prompt for the Skills Gap Analysis was being written, the performance of the model improved each time we added new information to the prompt and a new structure. This will effectively guide the LLM to retrieve the right information from the two sets of documents and output it in a specific way. This was especially made more apparent when a few-shot approach was utilized in the skills gap analysis. The more vague the prompt is the more opportunity the LLM has to hallucinate and put stuff in the responses that is not in the source document or is not factual. This is exactly what happened with the Keyword Alignment Analysis. 
 
-**Which JDs produced the best/worst results? Why?**
+Another key finding that I found was that the way the documents are written influence the response that the LLM will output. The RAG system will retrieve the relevant text based on what it literally. The main problem with this is that it is more difficult to make connections based on subtle meanings or words that are semantically similar. This whole problem can be resolved by taking an example from the first key finding. The more specific we are when prompting, the better the model can be at identifying subtle meanings and words/phrases that are related to each other.
 
-I think that the best analyses were produced by the Business Intelligence Analyst for the Creative Artist Agency. It was very good at identifying the tasks necessary based on the Job Descriptions, but was slightly less than perfect when it came to identifying the gap. The one slight gap that was mentioned was that I had a lack of experience when it come Data Cleaning. While I may not have that experience specifically listed, I would consider that experience in Data Cleaning is encompassed in the task of Data Analysis.  
+The third main finding is that the chunk size that we use to create the embedding is the one of the most important tools that we use when it comes to developing the context that a model can use. When the number is too large, it will produce less clusters; however it can produce a large amount of text with the opportunity for overlapping context or a wide range of topics that can be discussed. If the number is too small, there is significantly lower clusters, but it will be more specific when it comes to context. This limits what the conversations could be about when it comes to certain vectors. 
 
-The worst performing was definetly the Business Intelligence Analyst for the LA Tourism and Convention Board. This is because it hallucinated one major point across multiple forms of analysis (the Skill Gap Analysis and the Fit Narrative Analysis) that then turned the analysis to say that my resume was not optimal for the job. The point was that I did not have enough project managment expreince even though I have 3 years of exprience planning events at conferences such as RSA, NRF, and other national conferences. While I may not have experience in the Travel industry, I do have very relevant project managment experience. 
-
-**Where did the system hallucinate or produce inaccurate results?**
-
-I think the system began to provide inaccurate results when the model decided to take the text too literally after retrieving it. The perfect example is where it is saying that I do not have experience in project management. Meanwhile my current job had many projects which were listed in my resume, Another piece of information where it hallucinated is that I do not have any experience in Data Cleaning. While this is not clearly stated in my resume, I would say that this is implied to experience within Data Analysis since this a very crucial part of the process.  
-
-**What would you improve?**
-
-I would improve this by changing the prompt to make sure that it looks at the whole set of text and find the literal meaning and the implied meaning from the text. This is where it begins to hallucinate a little bit and fixing this would fix the overall errors. I would change the prompt to include examples of things that are more subtle but indicate that they still have the experience. 
-
-Another thing that I would improve was to include the solutions to make the keyword alignment analysis more relevant to the job description. This could be by providing alternative ways to word the same phrase that aligns better with the job description. We can also have the model give ways to get the necessary experience if the model does not see any keyword alignment between the resume and the job description instead of just the analysis score and a minor explanation that doesn't provide to much actionable insights. 
 
 ## File Descriptions
 - `notebooks/rag_pipeline.ipynb` - Main analysis notebook
