@@ -54,17 +54,37 @@ The Second tool that was used was a connection to OpenAI using their API key. Th
 
 ##Key Findings
 
-| Algorithm | Feature | Accuracy | Train+Predict (s) | F1 | Memory Usage | Interpretability |
-|:---------:|:-------:|:--------:|:-----------------:|:--:|:------------:|:----------------:|
-| Naive Bayes | CountVectorizer | 0.8562 | 0.2612 | 0.854894 | 1 | Most Interpretable |
-| Logistic Regression | CountVectorizer | 0.8765 | 3.6591 | 0.876290 | 2 | Very Interpretable |
-| SVM | CountVectorizer | 0.8673 | 18.0844 | 0.867472 | 5 | Least Interpretable |
-| Random Forest | CountVectorizer | 0.8520 | 98.0443 | 0.853000 | 7 | Not as Interpretable but can give the most insights |
-| Naive Bayes | TF-IDF | 0.8620 | 0.2526 | 0.859813 | 3 | Most Interpretable |
-| Logistic Regression | TF-IDF | 0.8940 | 0.8560 | 0.893231 | 4 | Very Interpretable |
-| SVM | TF-IDF | 0.8862 | 0.9517 | 0.885743 | 6 | Least Interpretable |
-| Random Forest | TF-IDF | 0.8526 | 93.3095 | 0.854807 | 8 | Not as Interpretable but can give the most insights |
+| Job Title | Company | Analysis Type | Retrieval Relevance | Skill Identification Accuracy | Actionability | Faithfulness |
+|---|---|---|---|---|---|---|
+| Business Intelligence Analyst | Guitar Center | Skill Gap Analysis | Yes | Correct | 4 | Faithful |
+| Business Intelligence Analyst | Guitar Center | Keyword Alignment Analysis | Yes | Incorrect | 5 | Faithful |
+| Business Intelligence Analyst | Guitar Center | Fit Narrative Analysis | Yes | Incorrect | 3 | Faithful |
+| Business Intelligence Analyst, Sports – Brand Consulting | Creative Artists Agency | Skill Gap Analysis | Yes | Correct | 5 | Faithful |
+| Business Intelligence Analyst, Sports – Brand Consulting | Creative Artists Agency | Keyword Alignment Analysis | Yes | Incorrect | 4 | Hallucinated |
+| Business Intelligence Analyst, Sports – Brand Consulting | Creative Artists Agency | Fit Narrative Analysis | Yes | Correct | 2 | Faithful |
+| Business Intelligence Analyst | Los Angeles Tourism and Convention Board | Skill Gap Analysis | Yes | Incorrect | 5 | Hallucinated |
+| Business Intelligence Analyst | Los Angeles Tourism and Convention Board | Keyword Alignment Analysis | Yes | Correct | 2 | Faithful |
+| Business Intelligence Analyst | Los Angeles Tourism and Convention Board | Fit Narrative Analysis | Yes | Incorrect | 3 | Hallucinated |
 
+**Which analysis type worked best?**
+
+Based on these Results I would say that the best analysis type was the skills gap analysis. 
+
+**Which JDs produced the best/worst results? Why?**
+
+I think that the best analyses were produced by the Business Intelligence Analyst for the Creative Artist Agency. It was very good at identifying the tasks necessary based on the Job Descriptions, but was slightly less than perfect when it came to identifying the gap. The one slight gap that was mentioned was that I had a lack of experience when it come Data Cleaning. While I may not have that experience specifically listed, I would consider that experience in Data Cleaning is encompassed in the task of Data Analysis.  
+
+The worst performing was definetly the Business Intelligence Analyst for the LA Tourism and Convention Board. This is because it hallucinated one major point across multiple forms of analysis (the Skill Gap Analysis and the Fit Narrative Analysis) that then turned the analysis to say that my resume was not optimal for the job. The point was that I did not have enough project managment expreince even though I have 3 years of exprience planning events at conferences such as RSA, NRF, and other national conferences. While I may not have experience in the Travel industry, I do have very relevant project managment experience. 
+
+**Where did the system hallucinate or produce inaccurate results?**
+
+I think the system began to provide inaccurate results when the model decided to take the text too literally after retrieving it. The perfect example is where it is saying that I do not have experience in project management. Meanwhile my current job had many projects which were listed in my resume, Another piece of information where it hallucinated is that I do not have any experience in Data Cleaning. While this is not clearly stated in my resume, I would say that this is implied to experience within Data Analysis since this a very crucial part of the process.  
+
+**What would you improve?**
+
+I would improve this by changing the prompt to make sure that it looks at the whole set of text and find the literal meaning and the implied meaning from the text. This is where it begins to hallucinate a little bit and fixing this would fix the overall errors. I would change the prompt to include examples of things that are more subtle but indicate that they still have the experience. 
+
+Another thing that I would improve was to include the solutions to make the keyword alignment analysis more relevant to the job description. This could be by providing alternative ways to word the same phrase that aligns better with the job description. We can also have the model give ways to get the necessary experience if the model does not see any keyword alignment between the resume and the job description instead of just the analysis score and a minor explanation that doesn't provide to much actionable insights. 
 
 ## File Descriptions
 - `notebooks/rag_pipeline.ipynb` - Main analysis notebook
