@@ -20,7 +20,7 @@ Creating the prompt that the LLM would use to conduct the analysis had to be cra
 
 **Results**
 
-
+This application has successfully achieved its goal in finding the gaps of an individual based on the resume and the job description. The Skills Gap Analysis by the tool is by far the best performing. It was able to successfully identify the skill gaps from both the job description and the resume while also providing solutions for the specific person. The fit narrative analysis was next in terms of the most successful. It was able to tell the user in a clear and concise manner whether the person that was a good fit for the job while citing the specific excerpts that helped tie the narrative together. The keyword alignment analysis is a very good foundation and can be used as a tool to help with the phrasing of a person's resume based on the job description. The prompting for each form of analysis is very important for the model to generate the right results  using the data from both documents. When more people use the software and provide the feedback, we can adjust the prompt to make sure it provides the right output by providing examples and more specific queries.
 
 **Key Limitation**
 
